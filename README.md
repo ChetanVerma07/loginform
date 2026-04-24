@@ -1,32 +1,32 @@
-# 👋 Hey there, I'm Ashu!
+#  Hey there, I'm Ashu (chetan verma )!
 
 Welcome to my GitHub world!  
-I'm a passionate self-taught developer, aspiring ethical hacker, and an all-round coding hustler currently diving deep into **web development**, **programming fundamentals**, and exploring the power of **open-source collaboration**. 🚀
+I'm a passionate self-taught developer, aspiring ethical hacker, and an all-round coding hustler currently diving deep into **web and app development**, **programming fundamentals**, and exploring the power of **open-source collaboration**. 
 
 ---
 
-## 🌐 About This GitHub
+##  About This GitHub
 
-This GitHub repository and profile serve as my personal lab — where I:
-- 💻 Build and share cool **web projects**
-- 🛠️ Practice and polish my coding skills
-- 🧠 Experiment with different programming languages and frameworks
-- ✍️ Document my learning journey through code
+This GitHub repository and profile serve as my personal lab where I:
+-  Build and share cool **web projects**
+-  Practice and polish my coding skills
+-  Experiment with different programming languages and frameworks
+-  Document my learning journey through code
 
 ---
 
-## 🧩 Technologies I Work With
+##  Technologies I Work With
 
 Here are the main technologies and languages you’ll find across my projects:
 
-- 🌐 **Frontend**: HTML, CSS, JavaScript  
-- ☕ **Programming Languages**: Java, C, Python  
-- ⚙️ **Other Skills**: Git & GitHub, Command Line, Responsive Design, JavaFX (GUI), and more  
-- 🌱 Currently exploring: ReactJS, Node.js, and ethical hacking fundamentals
+-  **Frontend**: HTML, CSS, JavaScript  
+-  **Programming Languages**: Java, C, Python  
+-  **Other Skills**: Git & GitHub, Command Line, Responsive Design, JavaFX (GUI), and more  
+-  Currently exploring: ReactJS, Node.js, and ethical hacking fundamentals
 
 ---
 
-## 📁 What You’ll Find Here
+##  What You’ll Find Here
 
 - `HTML-CSS-Projects/` — beginner to intermediate UI clones and creative static sites  
 - `Java-DSA/` — Java codes for data structures and algorithms  
@@ -35,20 +35,20 @@ Here are the main technologies and languages you’ll find across my projects:
 
 ---
 
-## 📸 Let’s Connect
+##  Let’s Connect
 
-- 🧠 Follow my coding updates and lifestyle on **Instagram**: [@_cheri_1122](https://instagram.com/_cheri_1122)
-- 💬 DM me on Instagram or reach out through GitHub discussions if you want to collaborate, ask, or just geek out on code!
-- 🎯 Future plans: Launching my personal portfolio using GitHub Pages soon! Stay tuned.
+-  Follow my coding updates and lifestyle on **Instagram**: [@_cheri_1122](https://instagram.com/_cheri_1122)
+-  DM me on Instagram or reach out through GitHub discussions if you want to collaborate, ask, or just geek out on code!
+-  Future plans: Launching my personal portfolio using GitHub Pages soon! Stay tuned.
 
 ---
 
-## 🛡️ Licensing & Ownership
+##  Licensing & Ownership
 
 All content in this repository is written, tested, and maintained by **Ashu**.  
 Please do not copy projects, code, or design without permission.
 
-> 📄 **Copyright © Ashu**
+>  **Copyright © Ashu (chetan)**
 >
 > This repository and all its content are protected under applicable copyright laws.
 >
@@ -56,8 +56,8 @@ Please do not copy projects, code, or design without permission.
 
 ---
 
-## 🙏 Thanks for Visiting!
+##  Thanks for Visiting!
 
 Thanks for checking out my profile and projects.  
 If you find anything helpful or inspiring, do ⭐ the repo and follow for more.  
-Let's grow and learn together 💻❤️
+Let's grow and learn together <3
